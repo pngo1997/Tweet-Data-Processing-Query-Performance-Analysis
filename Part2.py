@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# #### Student Name: Mai Ngo 
-# #### Course Name and Number: DSC 450 Database Processing for Large-Scale Analytics 
-# #### Final - Part 2
-# #### Date: 8/20/2023
-
 # ## Part 2
 
 # a) Write and execute a SQL query to find the average latitude value for each user ID, using both AVG and SUM/COUNT. This query does not need the User table because User ID is a foreign key in the Tweet table. E.g., something like SELECT UserID, AVG(latitude), SUM(latitude)/COUNT(latitude) FROM Tweet, Geo WHERE Tweet.GeoFK = Geo.GeoID GROUP BY UserID;
