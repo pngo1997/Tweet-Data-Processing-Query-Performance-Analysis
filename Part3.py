@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# #### Student Name: Mai Ngo 
-# #### Course Name and Number: DSC 450 Database Processing for Large-Scale Analytics 
-# #### Final - Part 3
-# #### Date: 8/20/2023
-
 # ## Part 3
 
 # a) Using the database with 650,000 tweets, create a new table that corresponds to the join of all 3 tables in your database, including records without a geo location. This is the equivalent of a materialized view but since SQLite does not support MVs, we will use CREATE TABLE AS SELECT (instead of CREATE MATERIALIZED VIEW AS SELECT).
