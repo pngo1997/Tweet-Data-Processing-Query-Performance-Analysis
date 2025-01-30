@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### Student Name: Mai Ngo 
-# #### Course Name and Number: DSC 450 Database Processing for Large-Scale Analytics 
-# #### Final - Part 1
-# #### Date: 8/20/2023
-
 # ## Part 1
 
 # a) Use python to download tweets from the web and save to a local text file (not into a database yet, just to a text file). This is as simple as it sounds, all you need is a for-loop that reads lines from the web and writes them into a file.
